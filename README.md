@@ -1,5 +1,5 @@
 # LoliBot-V1 FOR TERMUX
-{
+
 $pkg upgrade && pkg update
 
 $pkg install nodejs
@@ -24,7 +24,7 @@ $npm start or index.js
 
 
 (ekstrak dulu file lolibot-v1 001 & 002) 
-}
+
 
 
 # WA? 
